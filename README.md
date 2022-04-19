@@ -3,4 +3,4 @@
 ## Methodology: 
 - Excel Solver 
 - Visualization feature in Excel
-## Tutorial: 
+## [Tutorial](https://medium.com/@hangthpham/how-excels-solver-program-may-be-used-to-construct-an-efficient-frontier-using-historical-return-10bfdcd5e6ad)
